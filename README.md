@@ -1,4 +1,5 @@
-his Node.js script allows you to check the expiry date of an SSL certificate for a given hostname. It uses the https module to make a request to the hostname and retrieves the SSL certificate information to determine the expiry date.
+https://us-central1-synthectic.cloudfunctions.net/SyntheticFunction
+this Node.js script allows you to check the expiry date of an SSL certificate for a given hostname. It uses the https module to make a request to the hostname and retrieves the SSL certificate information to determine the expiry date.
 
 Installation
 Make sure you have Node.js installed on your machine.
