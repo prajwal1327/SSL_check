@@ -1,0 +1,14 @@
+{
+  "name": "ssl-monitor",
+  "version": "1.0.0",
+  "description": "SSL certificate expiry monitoring",
+  "main": "ssl-monitor.js",
+  "scripts": {
+    "start": "node ssl-monitor.js"
+  },
+  "dependencies": {
+    "https": "^1.0.0"
+  },
+  "author": "Your Name",
+  "license": "Apache-2.0"
+}
